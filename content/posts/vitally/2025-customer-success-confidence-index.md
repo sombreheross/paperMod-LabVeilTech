@@ -23,9 +23,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "../img/vitally.png" # image path/url
-    alt: "logo Sonos" # alt text
-    caption: "Le logo de l'entreprise Sonos" # display caption under cover
+    image: "https://cdn.prod.website-files.com/63d3e5f547ca0a274b2e07e1/675733af6e931bf8956f2466_vital-insights-logo.png" # image path/url
+    alt: "logo Vital Insights 02" # alt text
+    caption: "Le logo de l'étude Vital Insights 02" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
