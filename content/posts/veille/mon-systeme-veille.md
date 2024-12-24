@@ -31,7 +31,7 @@ cover:
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
-#### Les outils que j’utilise pour ma veille  
+### Les outils que j’utilise pour ma veille  
 **1. Google Alerts : ma veille automatisée**  
 J’utilise Google Alerts pour recevoir des actualités sur des mots-clés spécifiques liés à l’expérience client. Cela me permet de rester informé sans avoir à rechercher activement chaque sujet. Voici quelques alertes que j’ai configurées :  
 - "Customer Experience"  
@@ -45,7 +45,7 @@ Ces alertes m’aident à identifier rapidement des articles, rapports et annonc
 **2. LinkedIn : une mine d’expertise**  
 LinkedIn est mon principal outil pour suivre des professionnels influents et des entreprises du monde CX. Voici comment je l’utilise :  
 - Je suis des acteurs clés comme **Ejieme Eromosele** et des pages telles que **Quiq** ou **CXNetwork**, qui publient régulièrement des contenus riches et fiables.  
-- Je m’abonne aux discussions des groupes spécialisés en CX pour repérer les tendances émergentes et enrichir ma réflexion.  
+- Je suis les discussions de groupes spécialisés en CX pour repérer les tendances émergentes et enrichir ma réflexion.  
 - Les fonctionnalités de LinkedIn m’aident à repérer des articles ou des posts engageants directement partagés par des experts.  
 
 **3. Newsletters spécialisées : du contenu qualitatif directement dans ma boîte mail**  
@@ -56,13 +56,13 @@ Les newsletters sont une ressource précieuse pour ma veille. Voici quelques-une
 
 Ces newsletters offrent un contenu curé, ce qui me fait gagner du temps tout en m’assurant une qualité d’information.  
 
-#### Les outils que j’ai écartés  
+### Les outils que j’ai écartés  
 Bien que Twitter (ou X) soit un réseau social puissant pour suivre l’actualité en temps réel, j’ai choisi de ne pas l’intégrer à mon système de veille. La plupart des publications que j’y ai trouvées relèvent de l’engagement bait, souvent non sourcé et peu pertinent pour approfondir mes connaissances.  
 
-#### Centralisation et organisation des informations  
+### Centralisation et organisation des informations  
 Pour organiser ma veille, je m’appuie sur des dossiers partagés et des outils simples comme des gestionnaires de favoris dans mon navigateur et ma boîte mail contenant des règles permettant de trier facillement. Je classe les ressources en fonction de thématiques clés comme l’IA, l’omnicanal, l’expérience client digitale ou la source.  
 
-#### Mon approche de la veille  
+### Mon approche de la veille  
 Mon système de veille n’est pas figé : il évolue avec mes besoins et les outils disponibles. L’objectif est de garder une démarche proactive et adaptable, que ce soit pour anticiper les tendances ou approfondir des sujets complexes.  
 
 Ce système m’aide à enrichir mes analyses, structurer mes idées et produire des contenus qui reflètent les évolutions et les défis d’un domaine aussi passionnant que le CX.  
