@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Leo Emeri - CX Blog
+  description: "Un site pour partager mes réfléxions, découvertes et retours d'expérience"
   keywords: [Blog, Portfolio, PaperMod]
   author: Leo Emeri
   # author: ["Me", "You"] # multiple authors
