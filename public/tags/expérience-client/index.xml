@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Expérience Client on Leo Emeri - CX Blog</title>
+    <link>http://localhost:1313/tags/exp%C3%A9rience-client/</link>
+    <description>Recent content in Expérience Client on Leo Emeri - CX Blog</description>
+    <image>
+      <title>Leo Emeri - CX Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 10 Oct 2024 13:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/exp%C3%A9rience-client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sonos et le redesign de son application : Quand l&#39;écoute du client passe au second plan</title>
+      <link>http://localhost:1313/posts/sonos/nouvelle-app-sonos/</link>
+      <pubDate>Thu, 10 Oct 2024 13:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/sonos/nouvelle-app-sonos/</guid>
+      <description>&lt;h3 id=&#34;une-crise-dexpérience-client&#34;&gt;Une crise d&amp;rsquo;expérience client&lt;/h3&gt;
+&lt;p&gt;Cet été, Sonos, la célèbre marque d&amp;rsquo;enceintes connectées, a mis à jour son application, entraînant une vague de mécontentement parmi ses utilisateurs. Maxime Schmidt, sur LinkedIn, partage une expérience personnelle marquée par des problèmes d&amp;rsquo;accessibilité et une gestion discutable des retours clients.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;Le redesign de l&amp;rsquo;application Sonos, bien qu&amp;rsquo;ambitieux, a laissé beaucoup de clients perplexes. Malgré des semaines de plaintes sur les réseaux sociaux, dans les avis utilisateurs et probablement via des canaux directs, Sonos a persisté à imposer la mise à jour, provoquant des frustrations majeures. Ce changement a eu un impact direct sur les habitudes de nombreuses familles, dont celle de Maxime Schmidt, où les enfants ont vu leurs morceaux préférés inaccessibles.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

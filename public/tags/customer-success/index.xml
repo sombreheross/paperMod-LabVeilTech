@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Customer Success on Leo Emeri - CX Blog</title>
+    <link>http://localhost:1313/tags/customer-success/</link>
+    <description>Recent content in Customer Success on Leo Emeri - CX Blog</description>
+    <image>
+      <title>Leo Emeri - CX Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 24 Dec 2024 15:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/customer-success/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 2025 Customer Success Confidence Index</title>
+      <link>http://localhost:1313/posts/vitally/2025-customer-success-confidence-index/</link>
+      <pubDate>Tue, 24 Dec 2024 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/vitally/2025-customer-success-confidence-index/</guid>
+      <description>&lt;h3 id=&#34;les-défis-du-customer-success-face-à-la-complexité&#34;&gt;Les défis du Customer Success face à la complexité&lt;/h3&gt;
+&lt;p&gt;La montée en puissance du Customer Success (CS) pour les clients d’entreprise utilisant des produits complexes est un défi majeur pour les équipes CS à l’approche de 2025. Comme le souligne l’étude &lt;strong&gt;Vital Insights&lt;/strong&gt; menée par Vitally.io, la capacité à scaler ces activités tout en maintenant une expérience client optimale reste une priorité cruciale.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;étude, menée auprès de 68 membres de la communauté &lt;strong&gt;Success Network&lt;/strong&gt;, met en évidence la confiance et les inquiétudes des professionnels du CS sur plusieurs thèmes clés. Un aspect particulièrement marquant est l&amp;rsquo;introduction de la technologie dans les processus CS pour les clients d’entreprise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

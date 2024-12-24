@@ -1,0 +1,121 @@
+baseURL: "https://examplesite.com/"
+title: Leo Emeri - CX Blog
+paginate: 5
+theme: PaperMod
+
+defaultContentLanguage: fr
+languageCode: fr
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Leo Emeri
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2 January 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShareButtons: ["x", "linkedin", "facebook", "reddit", "whatsapp", "telegram"]
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Leo Emeri - CX Blog"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Bonjour, bienvenue ! \U0001F44B"
+    Content: "Je suis Leo Emeri, un passionné de l'expérience client. Je partage ici mes réflexions, mes découvertes et mes retours d'expérience. Si vous souhaitez en savoir plus, rendez-vous sur la page à propos. Bonne lecture! \U0001F60A"
+
+  socialIcons:
+    - name: email
+      url: "mailto:leo.emeri@heig-vd.ch"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/leo-emeri/"
+    - name: github
+      url: "https://github.com/sombreheross"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+    taxonomies:
+  category: categories
+  tag: tags
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: categories
+      name: Catégories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: a-propos
+      name: A propos
+      url: /a-propos/
+      weight: 40
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

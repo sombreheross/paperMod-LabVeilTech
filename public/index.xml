@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leo Emeri - CX Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Leo Emeri - CX Blog</description>
+    <image>
+      <title>Leo Emeri - CX Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 24 Dec 2024 15:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 2025 Customer Success Confidence Index</title>
+      <link>http://localhost:1313/posts/vitally/2025-customer-success-confidence-index/</link>
+      <pubDate>Tue, 24 Dec 2024 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/vitally/2025-customer-success-confidence-index/</guid>
+      <description>&lt;h3 id=&#34;les-défis-du-customer-success-face-à-la-complexité&#34;&gt;Les défis du Customer Success face à la complexité&lt;/h3&gt;
+&lt;p&gt;La montée en puissance du Customer Success (CS) pour les clients d’entreprise utilisant des produits complexes est un défi majeur pour les équipes CS à l’approche de 2025. Comme le souligne l’étude &lt;strong&gt;Vital Insights&lt;/strong&gt; menée par Vitally.io, la capacité à scaler ces activités tout en maintenant une expérience client optimale reste une priorité cruciale.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;étude, menée auprès de 68 membres de la communauté &lt;strong&gt;Success Network&lt;/strong&gt;, met en évidence la confiance et les inquiétudes des professionnels du CS sur plusieurs thèmes clés. Un aspect particulièrement marquant est l&amp;rsquo;introduction de la technologie dans les processus CS pour les clients d’entreprise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A propos de moi et mon projet</title>
+      <link>http://localhost:1313/a-propos/</link>
+      <pubDate>Tue, 24 Dec 2024 14:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/a-propos/</guid>
+      <description>&lt;h1 id=&#34;bienvenue-dans-mon-univers-de-lexpérience-client-&#34;&gt;Bienvenue dans mon univers de l&amp;rsquo;expérience client 🌟&lt;/h1&gt;
+&lt;h2 id=&#34;qui-suis-je-&#34;&gt;Qui suis-je ?&lt;/h2&gt;
+&lt;p&gt;Je m’appelle &lt;strong&gt;Leo Emeri&lt;/strong&gt;, passionné par la relation humaine et les environnements numériques qui transforment notre quotidien. Mon parcours allie empathie, curiosité et expertise technologique, ce qui me permet de répondre à une mission claire : optimiser les expériences client pour qu’elles soient fluides, humaines et engageantes.&lt;/p&gt;
+&lt;p&gt;J’aime explorer le monde en tant que &lt;strong&gt;Digital Nomad&lt;/strong&gt;, travaillant depuis n’importe où, tout en découvrant de nouvelles cultures et en m’immergeant dans des modes de vie locaux. Ce mode de vie inspire mon approche : adaptable, rapide et toujours centrée sur les besoins humains.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sonos et le redesign de son application : Quand l&#39;écoute du client passe au second plan</title>
+      <link>http://localhost:1313/posts/sonos/nouvelle-app-sonos/</link>
+      <pubDate>Thu, 10 Oct 2024 13:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/sonos/nouvelle-app-sonos/</guid>
+      <description>&lt;h3 id=&#34;une-crise-dexpérience-client&#34;&gt;Une crise d&amp;rsquo;expérience client&lt;/h3&gt;
+&lt;p&gt;Cet été, Sonos, la célèbre marque d&amp;rsquo;enceintes connectées, a mis à jour son application, entraînant une vague de mécontentement parmi ses utilisateurs. Maxime Schmidt, sur LinkedIn, partage une expérience personnelle marquée par des problèmes d&amp;rsquo;accessibilité et une gestion discutable des retours clients.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;Le redesign de l&amp;rsquo;application Sonos, bien qu&amp;rsquo;ambitieux, a laissé beaucoup de clients perplexes. Malgré des semaines de plaintes sur les réseaux sociaux, dans les avis utilisateurs et probablement via des canaux directs, Sonos a persisté à imposer la mise à jour, provoquant des frustrations majeures. Ce changement a eu un impact direct sur les habitudes de nombreuses familles, dont celle de Maxime Schmidt, où les enfants ont vu leurs morceaux préférés inaccessibles.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
