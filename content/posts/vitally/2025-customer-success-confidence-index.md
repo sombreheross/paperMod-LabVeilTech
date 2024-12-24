@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "content/posts/vitally/img/vitally.png" # image path/url
+    image: "../img/vitally.png" # image path/url
     alt: "logo Sonos" # alt text
     caption: "Le logo de l'entreprise Sonos" # display caption under cover
     relative: true # when using page bundles set this to true
