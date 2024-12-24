@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stratégie on Leo Emeri - CX Blog</title>
+    <link>http://localhost:1313/categories/strat%C3%A9gie/</link>
+    <description>Recent content in Stratégie on Leo Emeri - CX Blog</description>
+    <image>
+      <title>Leo Emeri - CX Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 24 Dec 2024 18:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/strat%C3%A9gie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ma veille : Comment rester connecté au monde de l&#39;expérience client</title>
+      <link>http://localhost:1313/posts/veille/mon-systeme-veille/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/veille/mon-systeme-veille/</guid>
+      <description>Dans un domaine en constante évolution comme l’expérience client (CX), maintenir une veille structurée est essentiel pour suivre les tendances, les innovations et les meilleures pratiques. Ce blog étant le reflet de ma passion pour le CX, j’ai mis en place un système d’écoute conçu pour alimenter ma réflexion, enrichir mes analyses et produire des contenus pertinents.</description>
+    </item>
+  </channel>
+</rss>

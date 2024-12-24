@@ -11,8 +11,35 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 24 Dec 2024 15:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 18:30:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ma veille : Comment rester connecté au monde de l&#39;expérience client</title>
+      <link>http://localhost:1313/posts/veille/mon-systeme-veille/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/veille/mon-systeme-veille/</guid>
+      <description>Dans un domaine en constante évolution comme l’expérience client (CX), maintenir une veille structurée est essentiel pour suivre les tendances, les innovations et les meilleures pratiques. Ce blog étant le reflet de ma passion pour le CX, j’ai mis en place un système d’écoute conçu pour alimenter ma réflexion, enrichir mes analyses et produire des contenus pertinents.</description>
+    </item>
+    <item>
+      <title>Deux tentatives d&#39;achat échouées suffisent à éloigner les clients</title>
+      <link>http://localhost:1313/posts/cxnetwork/failed-purchase-attempts/</link>
+      <pubDate>Tue, 24 Dec 2024 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/cxnetwork/failed-purchase-attempts/</guid>
+      <description>&lt;h3 id=&#34;limportance-dune-expérience-client-irréprochable-pendant-le-golden-quarter&#34;&gt;L&amp;rsquo;importance d&amp;rsquo;une expérience client irréprochable pendant le Golden Quarter&lt;/h3&gt;
+&lt;p&gt;À l’approche des fêtes de fin d’année, la période la plus importante pour le retail, les consommateurs sont clairs dans leurs attentes : ils recherchent la valeur, la commodité et des expériences fluides. Cet article est d’autant plus pertinent dans le contexte de Noël, où les enseignes doivent répondre aux exigences élevées des clients pour maximiser leurs ventes et fidéliser.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;Selon une enquête menée par Applause auprès de plus de 7 200 consommateurs, les attentes des clients en matière d&amp;rsquo;expérience d&amp;rsquo;achat sont plus élevées que jamais. Les statistiques révèlent que :&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Réinventer le support client : Comment l’IA des centres de contact redéfinit l’efficacité</title>
+      <link>http://localhost:1313/posts/quiq/ai-contact-center/</link>
+      <pubDate>Tue, 24 Dec 2024 16:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/quiq/ai-contact-center/</guid>
+      <description>&lt;h3 id=&#34;les-centres-de-contact-à-lère-de-lia&#34;&gt;Les centres de contact à l&amp;rsquo;ère de l&amp;rsquo;IA&lt;/h3&gt;
+&lt;p&gt;Les centres de contact subissent une pression croissante, gérant quotidiennement des milliers d&amp;rsquo;interactions clients sur de multiples canaux. Les systèmes traditionnels, rigides et manuels, peinent à répondre à cette demande, souvent au détriment de la satisfaction client et du bien-être des agents. Cet article explore comment l’intelligence artificielle (IA) révolutionne la gestion des centres de contact.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;L’IA appliquée aux centres de contact est bien plus qu’une simple automatisation. Elle utilise des technologies avancées comme les modèles de langage (LLM), l’analyse en temps réel, et l’automatisation intelligente pour optimiser chaque aspect du support client. Ces outils permettent de gérer efficacement les volumes importants, d&amp;rsquo;améliorer le routage des cas complexes et de fournir un support 24/7.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The 2025 Customer Success Confidence Index</title>
       <link>http://localhost:1313/posts/vitally/2025-customer-success-confidence-index/</link>
@@ -30,7 +57,7 @@
       <guid>http://localhost:1313/a-propos/</guid>
       <description>&lt;h1 id=&#34;bienvenue-dans-mon-univers-de-lexpérience-client-&#34;&gt;Bienvenue dans mon univers de l&amp;rsquo;expérience client 🌟&lt;/h1&gt;
 &lt;h2 id=&#34;qui-suis-je-&#34;&gt;Qui suis-je ?&lt;/h2&gt;
-&lt;p&gt;Je m’appelle &lt;strong&gt;Leo Emeri&lt;/strong&gt;, passionné par la relation humaine et les environnements numériques qui transforment notre quotidien. Mon parcours allie empathie, curiosité et expertise technologique, ce qui me permet de répondre à une mission claire : optimiser les expériences client pour qu’elles soient fluides, humaines et engageantes.&lt;/p&gt;
+&lt;p&gt;Je m’appelle &lt;strong&gt;Leo Emeri&lt;/strong&gt;, étudiant en Ingénierie des Médias et passionné par la relation humaine et les environnements numériques qui transforment notre quotidien. Mon parcours allie empathie, curiosité et expertise technologique, ce qui me permet de répondre à une mission claire : optimiser les expériences client pour qu’elles soient fluides, humaines et engageantes.&lt;/p&gt;
 &lt;p&gt;J’aime explorer le monde en tant que &lt;strong&gt;Digital Nomad&lt;/strong&gt;, travaillant depuis n’importe où, tout en découvrant de nouvelles cultures et en m’immergeant dans des modes de vie locaux. Ce mode de vie inspire mon approche : adaptable, rapide et toujours centrée sur les besoins humains.&lt;/p&gt;</description>
     </item>
     <item>

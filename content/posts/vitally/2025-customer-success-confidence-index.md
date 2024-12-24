@@ -3,8 +3,8 @@ title: "The 2025 Customer Success Confidence Index"
 date: 2024-12-24T15:00:00+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Customer Success","CX", "Scaling","Processus"]
-categories: ["Technologie"]
+tags: ["Customer Success","CX", "Scaling","Processus", "B2B"]
+categories: ["Technologie", "Customer experience"]
 author: "Leo Emeri"
 showToc: true
 TocOpen: false
@@ -24,8 +24,8 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
     image: "https://cdn.prod.website-files.com/63d3e5f547ca0a274b2e07e1/675733af6e931bf8956f2466_vital-insights-logo.png" # image path/url
-    alt: "logo Vital Insights 02" # alt text
-    caption: "Le logo de l'étude Vital Insights 02" # display caption under cover
+    alt: "logo de l'étude Vital Insights 02" # alt text
+    caption: "Le logo de l'étude Vital Insights 02." # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---

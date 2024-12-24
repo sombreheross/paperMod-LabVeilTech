@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Customer Experience on Leo Emeri - CX Blog</title>
+    <link>http://localhost:1313/categories/customer-experience/</link>
+    <description>Recent content in Customer Experience on Leo Emeri - CX Blog</description>
+    <image>
+      <title>Leo Emeri - CX Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 24 Dec 2024 18:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/customer-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ma veille : Comment rester connecté au monde de l&#39;expérience client</title>
+      <link>http://localhost:1313/posts/veille/mon-systeme-veille/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/veille/mon-systeme-veille/</guid>
+      <description>Dans un domaine en constante évolution comme l’expérience client (CX), maintenir une veille structurée est essentiel pour suivre les tendances, les innovations et les meilleures pratiques. Ce blog étant le reflet de ma passion pour le CX, j’ai mis en place un système d’écoute conçu pour alimenter ma réflexion, enrichir mes analyses et produire des contenus pertinents.</description>
+    </item>
+    <item>
+      <title>Réinventer le support client : Comment l’IA des centres de contact redéfinit l’efficacité</title>
+      <link>http://localhost:1313/posts/quiq/ai-contact-center/</link>
+      <pubDate>Tue, 24 Dec 2024 16:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/quiq/ai-contact-center/</guid>
+      <description>&lt;h3 id=&#34;les-centres-de-contact-à-lère-de-lia&#34;&gt;Les centres de contact à l&amp;rsquo;ère de l&amp;rsquo;IA&lt;/h3&gt;
+&lt;p&gt;Les centres de contact subissent une pression croissante, gérant quotidiennement des milliers d&amp;rsquo;interactions clients sur de multiples canaux. Les systèmes traditionnels, rigides et manuels, peinent à répondre à cette demande, souvent au détriment de la satisfaction client et du bien-être des agents. Cet article explore comment l’intelligence artificielle (IA) révolutionne la gestion des centres de contact.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;L’IA appliquée aux centres de contact est bien plus qu’une simple automatisation. Elle utilise des technologies avancées comme les modèles de langage (LLM), l’analyse en temps réel, et l’automatisation intelligente pour optimiser chaque aspect du support client. Ces outils permettent de gérer efficacement les volumes importants, d&amp;rsquo;améliorer le routage des cas complexes et de fournir un support 24/7.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 2025 Customer Success Confidence Index</title>
+      <link>http://localhost:1313/posts/vitally/2025-customer-success-confidence-index/</link>
+      <pubDate>Tue, 24 Dec 2024 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/vitally/2025-customer-success-confidence-index/</guid>
+      <description>&lt;h3 id=&#34;les-défis-du-customer-success-face-à-la-complexité&#34;&gt;Les défis du Customer Success face à la complexité&lt;/h3&gt;
+&lt;p&gt;La montée en puissance du Customer Success (CS) pour les clients d’entreprise utilisant des produits complexes est un défi majeur pour les équipes CS à l’approche de 2025. Comme le souligne l’étude &lt;strong&gt;Vital Insights&lt;/strong&gt; menée par Vitally.io, la capacité à scaler ces activités tout en maintenant une expérience client optimale reste une priorité cruciale.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;étude, menée auprès de 68 membres de la communauté &lt;strong&gt;Success Network&lt;/strong&gt;, met en évidence la confiance et les inquiétudes des professionnels du CS sur plusieurs thèmes clés. Un aspect particulièrement marquant est l&amp;rsquo;introduction de la technologie dans les processus CS pour les clients d’entreprise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

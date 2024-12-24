@@ -3,30 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/customer-experience/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cx/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/google-alerts/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linkedin/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/veille/mon-systeme-veille/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/outils/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/strat%C3%A9gie/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/veille/</loc>
+    <lastmod>2024-12-24T18:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cxnetwork/failed-purchase-attempts/</loc>
+    <lastmod>2024-12-24T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/e-commerce/</loc>
+    <lastmod>2024-12-24T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/etude-de-cas/</loc>
+    <lastmod>2024-12-24T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mobile/</loc>
+    <lastmod>2024-12-24T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/panier/</loc>
+    <lastmod>2024-12-24T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technologie/</loc>
+    <lastmod>2024-12-24T18:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/centres-de-contact/</loc>
+    <lastmod>2024-12-24T16:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ia/</loc>
+    <lastmod>2024-12-24T16:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/quiq/ai-contact-center/</loc>
+    <lastmod>2024-12-24T16:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/support-client/</loc>
+    <lastmod>2024-12-24T16:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/b2b/</loc>
     <lastmod>2024-12-24T15:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/customer-success/</loc>
-    <lastmod>2024-12-24T15:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cx/</loc>
-    <lastmod>2024-12-24T15:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-24T15:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-12-24T15:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/processus/</loc>
     <lastmod>2024-12-24T15:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/scaling/</loc>
-    <lastmod>2024-12-24T15:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-24T15:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technologie/</loc>
     <lastmod>2024-12-24T15:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/vitally/2025-customer-success-confidence-index/</loc>
@@ -38,16 +89,10 @@
     <loc>http://localhost:1313/tags/accesibilit%C3%A9/</loc>
     <lastmod>2024-10-10T13:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%C3%A9tude-de-cas/</loc>
-    <lastmod>2024-10-10T13:30:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/exp%C3%A9rience-client/</loc>
-    <lastmod>2024-10-10T13:30:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/feedback-client/</loc>
     <lastmod>2024-10-10T13:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/geston-de-crise/</loc>
+    <loc>http://localhost:1313/tags/gestion-de-crise/</loc>
     <lastmod>2024-10-10T13:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sonos/</loc>

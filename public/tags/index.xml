@@ -11,20 +11,90 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 24 Dec 2024 15:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 18:30:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CX</title>
+      <link>http://localhost:1313/tags/cx/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/cx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Alerts</title>
+      <link>http://localhost:1313/tags/google-alerts/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/google-alerts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LinkedIn</title>
+      <link>http://localhost:1313/tags/linkedin/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Veille</title>
+      <link>http://localhost:1313/tags/veille/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/veille/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E-Commerce</title>
+      <link>http://localhost:1313/tags/e-commerce/</link>
+      <pubDate>Tue, 24 Dec 2024 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>http://localhost:1313/tags/mobile/</link>
+      <pubDate>Tue, 24 Dec 2024 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/mobile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Panier</title>
+      <link>http://localhost:1313/tags/panier/</link>
+      <pubDate>Tue, 24 Dec 2024 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/panier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Centres De Contact</title>
+      <link>http://localhost:1313/tags/centres-de-contact/</link>
+      <pubDate>Tue, 24 Dec 2024 16:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/centres-de-contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IA</title>
+      <link>http://localhost:1313/tags/ia/</link>
+      <pubDate>Tue, 24 Dec 2024 16:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Support Client</title>
+      <link>http://localhost:1313/tags/support-client/</link>
+      <pubDate>Tue, 24 Dec 2024 16:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/support-client/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>B2B</title>
+      <link>http://localhost:1313/tags/b2b/</link>
+      <pubDate>Tue, 24 Dec 2024 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/b2b/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Customer Success</title>
       <link>http://localhost:1313/tags/customer-success/</link>
       <pubDate>Tue, 24 Dec 2024 15:00:00 +0100</pubDate>
       <guid>http://localhost:1313/tags/customer-success/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CX</title>
-      <link>http://localhost:1313/tags/cx/</link>
-      <pubDate>Tue, 24 Dec 2024 15:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/cx/</guid>
       <description></description>
     </item>
     <item>
@@ -49,13 +119,6 @@
       <description></description>
     </item>
     <item>
-      <title>Expérience Client</title>
-      <link>http://localhost:1313/tags/exp%C3%A9rience-client/</link>
-      <pubDate>Thu, 10 Oct 2024 13:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/exp%C3%A9rience-client/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Feedback Client</title>
       <link>http://localhost:1313/tags/feedback-client/</link>
       <pubDate>Thu, 10 Oct 2024 13:30:00 +0100</pubDate>
@@ -63,10 +126,10 @@
       <description></description>
     </item>
     <item>
-      <title>Geston De Crise</title>
-      <link>http://localhost:1313/tags/geston-de-crise/</link>
+      <title>Gestion De Crise</title>
+      <link>http://localhost:1313/tags/gestion-de-crise/</link>
       <pubDate>Thu, 10 Oct 2024 13:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/geston-de-crise/</guid>
+      <guid>http://localhost:1313/tags/gestion-de-crise/</guid>
       <description></description>
     </item>
     <item>

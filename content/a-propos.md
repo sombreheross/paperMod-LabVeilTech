@@ -24,7 +24,7 @@ UseHugoToc: true
 # Bienvenue dans mon univers de l'expérience client 🌟
 
 ## Qui suis-je ?  
-Je m’appelle **Leo Emeri**, passionné par la relation humaine et les environnements numériques qui transforment notre quotidien. Mon parcours allie empathie, curiosité et expertise technologique, ce qui me permet de répondre à une mission claire : optimiser les expériences client pour qu’elles soient fluides, humaines et engageantes.
+Je m’appelle **Leo Emeri**, étudiant en Ingénierie des Médias et passionné par la relation humaine et les environnements numériques qui transforment notre quotidien. Mon parcours allie empathie, curiosité et expertise technologique, ce qui me permet de répondre à une mission claire : optimiser les expériences client pour qu’elles soient fluides, humaines et engageantes.
 
 J’aime explorer le monde en tant que **Digital Nomad**, travaillant depuis n’importe où, tout en découvrant de nouvelles cultures et en m’immergeant dans des modes de vie locaux. Ce mode de vie inspire mon approche : adaptable, rapide et toujours centrée sur les besoins humains.
 
@@ -45,8 +45,11 @@ L’expérience client, pour moi, est bien plus qu’un ensemble de techniques :
 À travers ce site, je partage des réflexions, des analyses et des outils pratiques autour de l’expérience client. Mon objectif est d’explorer les nouvelles technologies, les méthodologies et les stratégies qui permettent d’améliorer les interactions entre les entreprises et leurs clients.
 
 ### 🌐 Pourquoi ce blog ?  
-- Pour décrire et approfondir des sujets clés comme le CRM, l’IA, ou encore les parcours client omnicanaux.  
-- Pour inspirer, outiller et accompagner les entreprises ou individus dans la création d’expériences exceptionnelles.
+J’ai créé ce blog pour partager ma passion pour l’expérience client (CX) et explorer les nombreux aspects qui façonnent des parcours mémorables. J’y aborde des sujets variés, allant de l’intelligence artificielle et des technologies émergentes aux stratégies d’optimisation des processus et aux approches omnicanales.
+
+Mon ambition est d’inspirer, d’informer et d’outiller les entreprises, les professionnels et les passionnés désireux de transformer chaque interaction client en un véritable levier de fidélisation et de croissance.
+
+Qu’il s’agisse d’améliorer l’expérience d’achat, de perfectionner le support client ou de réinventer une stratégie CX sur le long terme, ce blog se veut une ressource durable pour relever les défis et embrasser les évolutions d’un domaine en constante mutation.
 
 ## Choix du SSG et du thème  
 

@@ -11,20 +11,41 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 24 Dec 2024 15:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 18:30:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Technologie</title>
-      <link>http://localhost:1313/categories/technologie/</link>
-      <pubDate>Tue, 24 Dec 2024 15:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/technologie/</guid>
+      <title>Customer Experience</title>
+      <link>http://localhost:1313/categories/customer-experience/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/customer-experience/</guid>
       <description></description>
     </item>
     <item>
-      <title>Étude De Cas</title>
-      <link>http://localhost:1313/categories/%C3%A9tude-de-cas/</link>
-      <pubDate>Thu, 10 Oct 2024 13:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/%C3%A9tude-de-cas/</guid>
+      <title>Outils</title>
+      <link>http://localhost:1313/categories/outils/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/outils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stratégie</title>
+      <link>http://localhost:1313/categories/strat%C3%A9gie/</link>
+      <pubDate>Tue, 24 Dec 2024 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/strat%C3%A9gie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Etude De Cas</title>
+      <link>http://localhost:1313/categories/etude-de-cas/</link>
+      <pubDate>Tue, 24 Dec 2024 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/etude-de-cas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologie</title>
+      <link>http://localhost:1313/categories/technologie/</link>
+      <pubDate>Tue, 24 Dec 2024 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/technologie/</guid>
       <description></description>
     </item>
   </channel>

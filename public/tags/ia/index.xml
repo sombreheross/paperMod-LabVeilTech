@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IA on Leo Emeri - CX Blog</title>
+    <link>http://localhost:1313/tags/ia/</link>
+    <description>Recent content in IA on Leo Emeri - CX Blog</description>
+    <image>
+      <title>Leo Emeri - CX Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 24 Dec 2024 16:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Réinventer le support client : Comment l’IA des centres de contact redéfinit l’efficacité</title>
+      <link>http://localhost:1313/posts/quiq/ai-contact-center/</link>
+      <pubDate>Tue, 24 Dec 2024 16:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/quiq/ai-contact-center/</guid>
+      <description>&lt;h3 id=&#34;les-centres-de-contact-à-lère-de-lia&#34;&gt;Les centres de contact à l&amp;rsquo;ère de l&amp;rsquo;IA&lt;/h3&gt;
+&lt;p&gt;Les centres de contact subissent une pression croissante, gérant quotidiennement des milliers d&amp;rsquo;interactions clients sur de multiples canaux. Les systèmes traditionnels, rigides et manuels, peinent à répondre à cette demande, souvent au détriment de la satisfaction client et du bien-être des agents. Cet article explore comment l’intelligence artificielle (IA) révolutionne la gestion des centres de contact.&lt;/p&gt;
+&lt;h3 id=&#34;le-contexte&#34;&gt;Le contexte&lt;/h3&gt;
+&lt;p&gt;L’IA appliquée aux centres de contact est bien plus qu’une simple automatisation. Elle utilise des technologies avancées comme les modèles de langage (LLM), l’analyse en temps réel, et l’automatisation intelligente pour optimiser chaque aspect du support client. Ces outils permettent de gérer efficacement les volumes importants, d&amp;rsquo;améliorer le routage des cas complexes et de fournir un support 24/7.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

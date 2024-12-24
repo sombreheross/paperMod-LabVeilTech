@@ -3,8 +3,8 @@ title: "Sonos et le redesign de son application : Quand l'écoute du client pass
 date: 2024-10-10T13:30:00+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Sonos","CX","Expérience client","Geston de crise", "Feedback client", "Accesibilité"]
-categories: ["Technologie", "Étude de cas"]
+tags: ["Sonos","CX","Gestion de crise", "Feedback client", "Accesibilité"]
+categories: ["Technologie", "Etude de cas"]
 author: "Leo Emeri"
 showToc: true
 TocOpen: false
@@ -24,8 +24,8 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
     image: "https://download.logo.wine/logo/Sonos/Sonos-Logo.wine.png" # image path/url
-    alt: "logo Sonos" # alt text
-    caption: "Le logo de l'entreprise Sonos" # display caption under cover
+    alt: "logo de Sonos" # alt text
+    caption: "Le logo de l'entreprise Sonos." # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---

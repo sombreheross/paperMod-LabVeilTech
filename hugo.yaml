@@ -61,7 +61,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Bonjour, bienvenue ! \U0001F44B"
-    Content: "Je suis Leo Emeri, un passionné de l'expérience client. Je partage ici mes réflexions, mes découvertes et mes retours d'expérience. Si vous souhaitez en savoir plus, rendez-vous sur la page à propos. Bonne lecture! \U0001F60A"
+    Content: "Je suis Leo Emeri, un étudiant en Ingénierie des Médias passionné de l'expérience client. Je partage ici mes réflexions, mes découvertes et mes retours d'expérience. Si vous souhaitez en savoir plus, rendez-vous sur la page à propos. Bonne lecture! \U0001F60A"
 
   socialIcons:
     - name: email
