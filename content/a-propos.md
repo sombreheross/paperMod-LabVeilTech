@@ -54,4 +54,10 @@ L’expérience client, pour moi, est bien plus qu’un ensemble de techniques :
 - Pour décrire et approfondir des sujets clés comme le CRM, l’IA, ou encore les parcours client omnicanaux.  
 - Pour inspirer, outiller et accompagner les entreprises ou individus dans la création d’expériences exceptionnelles.
 
+## Choix du SSG et du thème  
+
+Pour ce site, j’ai choisi **Hugo** comme générateur de site statique (SSG). Ce choix s’explique par le fait qu’Hugo a été présenté et expliqué en cours, ce qui facilite sa prise en main et son intégration.  
+
+J’ai opté pour le thème **PaperMod** car il est parfaitement adapté pour les taxonomies et la gestion du multilingue. Comme le site est en français, PaperMod permet d’organiser le contenu efficacement tout en offrant une expérience utilisateur optimale.
+
 🌟 Merci de me rejoindre dans cette aventure, et n’hésitez pas à me contacter et partager vos idées pour enrichir le dialogue autour du CX !
